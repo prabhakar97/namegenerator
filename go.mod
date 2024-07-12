@@ -1,1 +1,1 @@
-module github.com/prabhakar97/namegenerator
+module github.com/goombaio/namegenerator
